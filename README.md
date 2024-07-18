@@ -13,10 +13,14 @@
 - # Create a new virtual machine in VirtualBox:
 - # Form the top of the taskbar click macine then click on New
 -![image](https://github.com/user-attachments/assets/24cf033c-be3b-448a-ad06-c4afb2b7537e)
-
+## After clicking on New, we adjust the settings in the following steps:
+## 1. We name the system in the Name field.
+## 2. We select the Ubuntu file in the Folder field.
+## 3. We select the Type as Linux system.
+## 4. We select the Version as Ubuntu 64-bit.
 ![image](https://github.com/user-attachments/assets/9f85bd6d-d46f-4ef2-9e29-51cf6b573f89)
 
-- Configure the virtual machine settings (20 GB memory, 25 GB hard disk)
+## - Configure the virtual machine settings (20 GB memory, 25 GB hard disk)
 - ![image](https://github.com/user-attachments/assets/542c11e2-3e29-4c5d-a207-f5cd56e47f1b)
 ![image](https://github.com/user-attachments/assets/efcc9f9a-ea51-437e-83b6-8332d84f6e74)
 ## Install the Ubuntu operating system on the virtual machine:
