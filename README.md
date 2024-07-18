@@ -3,7 +3,7 @@
 - Search Google for the download link of VirtualBox
   (https://www.virtualbox.org/wiki/Downloads)
   ![image](https://github.com/user-attachments/assets/fe9d424c-5f28-4efc-b3c2-52bfdf4bf333)
-  -Select and download the appropriate version for your operating system
+  # Select and download the appropriate version for your operating system
 ## Second step: Installing Ubuntu within the VirtualBox:
 Search Google for the download link of Ubuntu 20.04 LTS (64-bit desktop version)
 (https://releases.ubuntu.com/20.04/ )
