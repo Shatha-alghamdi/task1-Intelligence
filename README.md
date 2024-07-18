@@ -33,7 +33,7 @@
 ![image](https://github.com/user-attachments/assets/b224cf6d-a752-49dd-b600-c16af05a1ad2)
 ## -Select the Ubuntu platform
 ![image](https://github.com/user-attachments/assets/319a5d6d-5c15-47b7-88d4-9b450f5d6c6a)
-## -Execute the commands in the Ubuntu terminal to install ROS Noetic:
+## -Executed the commands in the Ubuntu terminal to install ROS Noetic:
 ![image](https://github.com/user-attachments/assets/1e62e82f-ecf2-4be7-820d-10ac07a9688c)
 ## After completing these steps, the system will be ready for use.
 ![Screenshot 2024-07-17 193736](https://github.com/user-attachments/assets/a08e7bea-5015-4c8e-9b6f-4efcbea033e0)
