@@ -11,9 +11,9 @@
 - ## Search Google for the download link of Ubuntu 20.04 LTS (64-bit desktop version)
 (https://releases.ubuntu.com/20.04/ )
 ![image](https://github.com/user-attachments/assets/ffff0f33-b25e-451d-8a66-79c56c36cc58)
-- # Download the appropriate image file
-- # Create a new virtual machine in VirtualBox:
-- # Form the top of the taskbar click macine then click on New
+- ## Download the appropriate image file
+- ## Create a new virtual machine in VirtualBox:
+- ## Form the top of the taskbar click macine then click on New
 -![image](https://github.com/user-attachments/assets/24cf033c-be3b-448a-ad06-c4afb2b7537e)
 ## After clicking on New, we adjust the settings in the following steps:
 ## 1. We name the system in the Name field.
