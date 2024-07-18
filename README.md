@@ -27,6 +27,7 @@
 - ![image](https://github.com/user-attachments/assets/542c11e2-3e29-4c5d-a207-f5cd56e47f1b)
 ![image](https://github.com/user-attachments/assets/efcc9f9a-ea51-437e-83b6-8332d84f6e74)
 
+# Third step: Installing ROS Noetic
 
 ## -Visit the appropriate link to download ROS Noetic (https://wiki.ros.org/ROS/Installation)
 ![image](https://github.com/user-attachments/assets/b224cf6d-a752-49dd-b600-c16af05a1ad2)
