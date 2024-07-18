@@ -29,7 +29,7 @@
 
 # Third step: Installing ROS Noetic
 
-## -Visit the appropriate link to download ROS Noetic (https://wiki.ros.org/ROS/Installation)
+## -We download Ros by clicking on this link (https://wiki.ros.org/ROS/Installation)
 ![image](https://github.com/user-attachments/assets/b224cf6d-a752-49dd-b600-c16af05a1ad2)
 ## -Select the Ubuntu platform
 ![image](https://github.com/user-attachments/assets/319a5d6d-5c15-47b7-88d4-9b450f5d6c6a)
