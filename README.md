@@ -12,7 +12,7 @@
 (https://releases.ubuntu.com/20.04/ )
 ![image](https://github.com/user-attachments/assets/ffff0f33-b25e-451d-8a66-79c56c36cc58)
 - ## Download the appropriate image file
-- ## Create a new virtual machine in VirtualBox:
+- ## Create a new virtual machine in VirtualBox
 - ## Form the top of the taskbar click macine then click on New
 -![image](https://github.com/user-attachments/assets/24cf033c-be3b-448a-ad06-c4afb2b7537e)
 ## After clicking on New, we adjust the settings in the following steps:
@@ -25,7 +25,8 @@
 ## - Configure the virtual machine settings (20 GB memory, 25 GB hard disk)
 - ![image](https://github.com/user-attachments/assets/542c11e2-3e29-4c5d-a207-f5cd56e47f1b)
 ![image](https://github.com/user-attachments/assets/efcc9f9a-ea51-437e-83b6-8332d84f6e74)
-## Install the Ubuntu operating system on the virtual machine:
+## Install the Ubuntu operating system on the virtual machine
+
 ## -Visit the appropriate link to download ROS Noetic (https://wiki.ros.org/ROS/Installation)
 ![image](https://github.com/user-attachments/assets/b224cf6d-a752-49dd-b600-c16af05a1ad2)
 ## -Select the Ubuntu platform
