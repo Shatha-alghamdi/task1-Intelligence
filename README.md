@@ -12,7 +12,7 @@
 (https://releases.ubuntu.com/20.04/ )
 ![image](https://github.com/user-attachments/assets/ffff0f33-b25e-451d-8a66-79c56c36cc58)
 - ## Download the appropriate image file
-- # Install the Ubuntu operating system on the virtual machine
+ # Install the Ubuntu operating system on the virtual machine
 - ## Create a new virtual machine in VirtualBox
 - ## Form the top of the taskbar click macine then click on New
 -![image](https://github.com/user-attachments/assets/24cf033c-be3b-448a-ad06-c4afb2b7537e)
